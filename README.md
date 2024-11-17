@@ -32,7 +32,7 @@ To set up the Volatility Forecasting Web App locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/wass1m-k/volatility-forecasting-web-app.git
+   git clone https://github.com/wass1m-k/volatility-forecasting-dashboard.git
    cd volatility-forecasting-web-app
    ```
 
